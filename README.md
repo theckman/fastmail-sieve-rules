@@ -7,7 +7,7 @@ I am placing this here mostly for my convenience, but hopefully it may come in h
 
 Installation
 ------------
-The sieve rules are hidden by default within the Fastmail UI. Here are the instructions for being able to work with your account's sieve rules directly. 
+The sieve rules are hidden by default within the Fastmail UI. Here are the instructions for being able to work with your account's sieve rules directly.
 
 **Note:** Once you make changes to your sieve rules file, you can no longer use the UI to generate mail rules. You will need to either revert the sieve rules file, or continue to use sieve.
 
